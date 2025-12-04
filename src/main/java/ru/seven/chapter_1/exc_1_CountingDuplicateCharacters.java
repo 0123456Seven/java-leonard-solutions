@@ -3,7 +3,8 @@ package ru.seven.chapter_1;
 import java.util.HashMap;
 import java.util.Map;
 
-public class CountingDuplicateCharacters {
+/** Подсчет повторяющихся символо **/
+public class exc_1_CountingDuplicateCharacters {
     public static void main(String[] args) {
         String name = "Babatumba";
 
