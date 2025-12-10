@@ -2,7 +2,7 @@ package ru.seven.chapter_1;
 
 import java.util.*;
 
-public class exc_5_CountingVowelsAndConsonants {
+public class Exc_5_CountingVowelsAndConsonants {
     public static void main(String[] args) {
         String str = "hello      24213412412";
         System.out.println(countVAndC(str));

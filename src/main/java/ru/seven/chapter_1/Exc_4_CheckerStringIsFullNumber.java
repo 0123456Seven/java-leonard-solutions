@@ -1,7 +1,7 @@
 package ru.seven.chapter_1;
 
 /** Проверка, содержит ли слово только цифры **/
-public class exc_4_CheckerStringIsFullNumber {
+public class Exc_4_CheckerStringIsFullNumber {
     public static void main(String[] args) {
         System.out.println(isFullNumberString("1"));
         System.out.println(isDigit("12345f6123"));

@@ -3,7 +3,7 @@ package ru.seven.chapter_1;
 import java.util.Arrays;
 import java.util.stream.Collectors;
 
-public class exc_9_connectStrWithSplitter {
+public class Exc_9_connectStrWithSplitter {
     public static void main(String[] args) {
         String[] array = {"Hello", "MyFather", "String", "Word"};
         System.out.println(connectorString(array, "_+_"));

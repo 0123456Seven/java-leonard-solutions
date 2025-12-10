@@ -1,8 +1,6 @@
 package ru.seven.chapter_1;
 
-import java.util.Arrays;
-
-public class exc_7_convertToDigitType {
+public class Exc_7_convertToDigitType {
     private static final String TO_INT = "453";
     private static final String TO_LONG = "45338843838";
     private static final String TO_DOUBLE = "13.234234234D";

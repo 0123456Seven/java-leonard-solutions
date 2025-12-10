@@ -4,7 +4,7 @@ import java.util.Arrays;
 import java.util.stream.Collectors;
 
 /** Инвертирование букв и слов **/
-public class exc_3_InvertSymbolsAndWords {
+public class Exc_3_InvertSymbolsAndWords {
     private static final String pattern = " ";
     public static void main(String[] args) {
         String word = "Java anywhere the best";

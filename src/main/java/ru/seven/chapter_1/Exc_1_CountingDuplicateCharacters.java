@@ -4,7 +4,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 /** Подсчет повторяющихся символо **/
-public class exc_1_CountingDuplicateCharacters {
+public class Exc_1_CountingDuplicateCharacters {
     public static void main(String[] args) {
         String name = "Babatumba";
 

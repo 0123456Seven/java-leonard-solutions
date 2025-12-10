@@ -5,7 +5,7 @@ import java.util.LinkedHashMap;
 import java.util.Map;
 
 /** Отыскание первого неповторяющегося символа **/
-public class exc_2_FindFirstNotRepeatedSymbol {
+public class Exc_2_FindFirstNotRepeatedSymbol {
     public static void main(String[] args) {
         System.out.println(findFirstNotRepeatedSymbol_1("gghhhddwewrrr"));
         System.out.println(findFirstNotRepeatedSymbol_2("gghhhldwqwrrr"));

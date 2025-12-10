@@ -1,6 +1,6 @@
 package ru.seven.chapter_1;
 
-public class exc_11_palindromChecker {
+public class Exc_11_palindromChecker {
     private static final String STR = "abrba";
     public static void main(String[] args) {
         System.out.println(isPalindrom(STR));

@@ -1,7 +1,7 @@
 package ru.seven.chapter_1;
 
 /* Подсчет появлений некоторого символа */
-public class exc_6_CountingRepeatingSymbolsFromStr {
+public class Exc_6_CountingRepeatingSymbolsFromStr {
     public static void main(String[] args) {
         System.out.println(countSymbolFromStr("hellollool", 'l'));
     }
